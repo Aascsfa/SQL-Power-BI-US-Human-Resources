@@ -1,0 +1,13 @@
+age_group,gender,count
+"31 to 40",Male,2609
+"41 to 50",Female,2231
+"51 to 60",Male,1973
+"41 to 50",Male,2482
+"31 to 40",Female,2303
+"51 to 60",Female,1824
+"21 to 30",Male,2264
+"21 to 30",Female,2097
+"31 to 40",Non-Conforming,146
+"51 to 60",Non-Conforming,100
+"41 to 50",Non-Conforming,140
+"21 to 30",Non-Conforming,116
